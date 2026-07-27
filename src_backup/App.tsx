@@ -221,13 +221,7 @@ export default function App() {
             statusText={statusText}
           />
         }
-        rightPane={({ isWideView, onToggleWideView }) => (
-          <DrawioViewer
-            xmlContent={xmlContent}
-            isWideView={isWideView}
-            onToggleWideView={onToggleWideView}
-          />
-        )}
+        rightPane={<DrawioViewer xmlContent={xmlContent} />}
       />
 
       {/* Modals */}
