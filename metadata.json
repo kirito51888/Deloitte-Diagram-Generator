@@ -1,5 +1,5 @@
 {
-  "name": "Deloitte Diagram Generator",
+  "name": "德勤流程图自动生成工具",
   "description": "AI-powered Deloitte standard swimlane flowchart generator with Draw.io integration, form configuration, and Gemini AI.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

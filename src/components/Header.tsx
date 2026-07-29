@@ -33,7 +33,7 @@ export const Header: React.FC<HeaderProps> = ({
         <div>
           <div className="flex items-center gap-2">
             <h1 className="text-base font-bold text-slate-100 tracking-tight">
-              Deloitte Diagram Generator
+              德勤流程图自动生成工具
             </h1>
             <span className="bg-emerald-500/20 text-emerald-400 text-[10px] font-semibold px-2 py-0.5 rounded border border-emerald-500/30">
               v24 Deloitte Standard
